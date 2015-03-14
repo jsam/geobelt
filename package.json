@@ -18,7 +18,6 @@
   "homepage": "https://github.com/jsam/geobelt",
   "dependencies": {
     "commondir": "^1.0.1",
-    "point-in-polygon": "0.0.0",
     "querystring": "^0.2.0",
     "request": "^2.53.0"
   }
