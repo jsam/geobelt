@@ -1,0 +1,25 @@
+{
+  "name": "geobelt",
+  "version": "0.0.1",
+  "description": "NodeJS tools for geocoding, reverse geocoding, complete geohashing support and polyhashing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsam/geobelt"
+  },
+  "author": "Sam <psam.dev@gmail.com> (http://github.com/jsam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsam/geobelt/issues"
+  },
+  "homepage": "https://github.com/jsam/geobelt",
+  "dependencies": {
+    "commondir": "^1.0.1",
+    "point-in-polygon": "0.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.53.0"
+  }
+}
