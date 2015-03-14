@@ -8,7 +8,7 @@ Nominatim open source server.
 * Geocoding
 * Reverse geocoding
 * Geohashing (encode, decode, adjacent, neigbours, subs)
-* polyhashes
+* Polyhashing
 
 
 
